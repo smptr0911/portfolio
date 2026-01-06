@@ -3,28 +3,28 @@ import { GraduationCap, Briefcase } from "lucide-react";
 export default function EducationExperience() {
   const education = [
     {
-      title: "Web Design",
-      institution: "Spain - Institute",
-      period: "2021 - Present",
+      title: "Bachelor of Computer Science",
+      institution: "Simon Fraser University",
+      period: "2022 - Present",
     },
     {
-      title: "Web Development",
-      institution: "Spain - Institute",
-      period: "2018 - 2020",
-    },
+      title: "Bachelor of Computer Science",
+      institution: "Trinity Western University",
+      period: "2021 - 2022",
+    }
   ];
 
   const experience = [
     {
-      title: "Art Director",
-      company: "Spain - Institute",
-      period: "2020 - 2021",
+      title: "The 2022 ICPC Pacific Northwest Regional Contest",
+      Institute: "UBC",
+      period: "2022 Feb 25th",
     },
     {
-      title: "UX Expert",
-      company: "Spain - Institute",
-      period: "2017 - 2018",
-    },
+      title: "Sushi Restaurant Cook",
+      company: "Sushi California",
+      period: "2021 - 2024",
+    }
   ];
 
   return (

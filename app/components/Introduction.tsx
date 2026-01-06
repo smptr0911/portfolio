@@ -13,7 +13,7 @@ export default function Introduction() {
         />
       </div>
       <div className="w-full max-w-2xl">
-        <h1 className="text-4xl font-bold mb-4">Hi, I'm Your Name</h1>
+        <h1 className="text-4xl font-bold mb-4">Hi, I'm Bedro Park</h1>
         <p className="text-xl mb-6 text-blue-600 dark:text-blue-400 font-medium">
           A passionate software developer with expertise in web technologies.
         </p>
